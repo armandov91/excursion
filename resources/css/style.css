@@ -1,0 +1,18 @@
+/*Main font for this website */
+html{
+  font-family: Verdana;
+}
+ /*Man header style */
+.main_header{
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+}
+
+/*Download link style */
+.download_link{
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
