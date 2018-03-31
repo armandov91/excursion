@@ -1,18 +1,31 @@
-/*Main font for this website */
-html{
+/* Body Style */
+body{
   font-family: Verdana;
+  background-color: black;
+  text-align: center;
 }
  /*Man header style */
 .main_header{
   color: white;
   font-weight: normal;
   font-size: 50px;
-  text-align: center;
+}
+
+/* Subheader Style */
+.subheader{
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+/*Paragraph Style */
+p{
+  font-size: 21px;
+  color: gray;
 }
 
 /*Download link style */
-.download_link{
+.download_link p{
   color: aquamarine;
   font-size: 16px;
-  text-align: center;
 }
